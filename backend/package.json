@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "fhirclient": "^2.6.0",
+    "jsonwebtoken": "^9.0.3",
+    "openai": "^6.15.0",
+    "querystring": "^0.2.1"
+  }
+}
